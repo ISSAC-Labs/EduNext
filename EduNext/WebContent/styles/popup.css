@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+.popup-overlay
+{
+	display:none;
+	width:100%;
+   	height:100%;
+ 	align:center;
+    position:fixed;
+    top:0;
+    left:0;
+     }
+
+#popup-box_frame
+{
+	width:350px;
+	margin:10px ;
+ 	text-align:center;
+ 	position:absolute;
+ 	left:400px;
+ 	}
+
+#popup-box
+{
+	background-color:#663333 ;
+ 	padding:8px;
+  	border-radius:2px;
+  	margin:auto;
+  	}
